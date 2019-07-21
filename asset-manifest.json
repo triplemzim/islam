@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/islam/static/css/main.2cce8147.chunk.css",
+    "main.js": "/islam/static/js/main.98c9ebff.chunk.js",
+    "main.js.map": "/islam/static/js/main.98c9ebff.chunk.js.map",
+    "runtime~main.js": "/islam/static/js/runtime~main.d8c13e93.js",
+    "runtime~main.js.map": "/islam/static/js/runtime~main.d8c13e93.js.map",
+    "static/css/2.29123216.chunk.css": "/islam/static/css/2.29123216.chunk.css",
+    "static/js/2.62d2c76c.chunk.js": "/islam/static/js/2.62d2c76c.chunk.js",
+    "static/js/2.62d2c76c.chunk.js.map": "/islam/static/js/2.62d2c76c.chunk.js.map",
+    "index.html": "/islam/index.html",
+    "precache-manifest.f6f176116e8ec6805a91e92f94635a4f.js": "/islam/precache-manifest.f6f176116e8ec6805a91e92f94635a4f.js",
+    "service-worker.js": "/islam/service-worker.js",
+    "static/css/2.29123216.chunk.css.map": "/islam/static/css/2.29123216.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/islam/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/islam/static/media/logo.5d5d9eef.svg",
+    "static/media/index.css": "/islam/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  }
+}
